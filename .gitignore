@@ -1,0 +1,4 @@
+minidocker
+*.o
+*.out
+*.exe
