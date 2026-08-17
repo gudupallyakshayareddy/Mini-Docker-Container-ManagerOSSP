@@ -1,0 +1,13 @@
+# Build output
+shellforge
+*.o
+*.out
+*.exe
+
+# IDE/editor files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
